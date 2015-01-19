@@ -27,8 +27,15 @@ few examples of websites I like that use such design element:
   does.
 * [Google Nexus phones](http://www.google.com/nexus/6/) - One product image and
   one marketing message ("More space to explore").
-* [Google Glass](https://www.google.com/glass/start/) - C
-Co
+* [Google Glass](https://www.google.com/glass/start/) - Cover page style. When
+  you scroll down the mouse wheel, it brings up the entire next page. This
+  page-by-page view feels just like fipping through a broshure. It is common
+  for a
+  cover page to have a downward arrow at the bottom to allow users to scroll
+  down quickly to the product details.
+
+Next, I will explore the design trend after the front header matter...
+
 [bootstrap-cover-page]: http://getbootstrap.com/examples/cover/ 
 [bootstrap-jumbotron]: http://getbootstrap.com/examples/jumbotron/
 [jumbotron-wiki]: http://en.wikipedia.org/wiki/Jumbotron
