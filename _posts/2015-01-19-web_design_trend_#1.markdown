@@ -20,7 +20,7 @@ website ([http://shouldiuseacarousel.com/][carousel])
 gives a really humorous yet direct expalnation of why it is bad. 
 
 So the static image and words do not have the problem of a carousel. They
-usually presents one simple message that users should take away. The below are a
+usually presents one simple message that users should take away. Below are a
 few examples of websites I like that use such design element:
 
 * [Bower](http://bower.io/) - Simple and colourful masthead explaining what it
