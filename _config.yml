@@ -1,0 +1,44 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+# Site settings
+title: "dancing with my shadow"
+
+email: clevershadow@gmail.com
+#blog logo
+logo: "/assets/images/logo.png"
+# blog cover
+cover: "/assets/images/background_image.jpg"
+
+name: 'Ying Yin'
+author: 'Ying Yin'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "https://ushadow.github.io" # the base hostname & protocol for your site
+baseurl: "/ushadow.github.io"
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/ushadow
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	github
+    url:	https://github.com/ushadow
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	google-plus
+    url:	https://google.com/+YingYin
+    desc:	Add me on google+
+    share_url: https://plus.google.com/share
+    share_title: 
+    share_link: ?url=
