@@ -1,4 +1,4 @@
 Personal Website
 ========
 
-Based on Jekyll and Mediator theme.
+Based on Jekyll and [mediator theme](http://jekyllthemes.org/themes/mediator/).
