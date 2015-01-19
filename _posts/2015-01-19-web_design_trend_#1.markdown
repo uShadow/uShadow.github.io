@@ -5,7 +5,7 @@ date:   2015-01-19 14:37
 categories: web-design
 ---
 
-One recent trend in web design is using a large image and a few big-font words in the front page. I think
+One recent trend in web design is using a large image and a few big-font words in the front page. 
 Bootstrap calls it a [jumbotron][bootstrap-jumbotron] or a [cover page][bootstrap-cover-page]. The difference between a jumbotron and a cover page is that a jumbotron only stretches across the width of a browser, whereas a cover page stretches across both width and height. There are also other names that are used to refer to the same design element, like a masthead. I do like
 this kind of design, because it is simple and eye-catching.
 
@@ -27,15 +27,8 @@ few examples of websites I like that use such design element:
   does.
 * [Google Nexus phones](http://www.google.com/nexus/6/) - One product image and
   one marketing message ("More space to explore").
-* [Google Glass](https://www.google.com/glass/start/) - Cover page style. When
-  you scroll the mouse wheel, it brings up the next page. This page-by-page view feels just like flipping over a brochure. This kind of
-  navigation is common for a design with a cover page. There is usually a
-  downward arrow at the bottom of the page that allows the user to scroll down
-  quickly to the next view. This is useful for speeding up the navigation to the
-  product details.
-
-Next, I want to explore the design trend after the front header.
-
+* [Google Glass](https://www.google.com/glass/start/) - C
+Co
 [bootstrap-cover-page]: http://getbootstrap.com/examples/cover/ 
 [bootstrap-jumbotron]: http://getbootstrap.com/examples/jumbotron/
 [jumbotron-wiki]: http://en.wikipedia.org/wiki/Jumbotron
