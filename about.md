@@ -10,4 +10,4 @@ recognition](http://groups.csail.mit.edu/mug/projects/gesture_kinect/). You can 
 [here](http://people.csail.mit.edu/yingyin).
 
 This blog theme is based on **mediator** which can be downloaded here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator).
